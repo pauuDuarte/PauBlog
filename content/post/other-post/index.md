@@ -10,7 +10,7 @@ image: "cover1.jpg"
 Hoy quise aprender a hacer un post nuevo
 Hoy quise aprender a hacer un post nuevo
 Hoy quise aprender a hacer un post nuevo
-Hoy quise aprender a hacer un post nuevo
+Hoy quise aprender a hacer un post nuevo1
 Hoy quise aprender a hacer un post nuevo
 Hoy quise aprender a hacer un post nuevo
 Hoy quise aprender a hacer un post nuevo
